@@ -22,7 +22,7 @@ A : "abworjeiwonnkkrdkerd"
 W : ["word"]
 R : ["nnkk"]
 
-A : "iwowkfjcirdewoabcbrd"
+A : "iwoakfjcirdewoabcbrd"
 W : ["word"]
 R : ["wkfjcir", "abcb"]
 
